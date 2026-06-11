@@ -7,4 +7,7 @@ So this is chopper a 3d cad model of a mouse that looks like a car. I tried basi
 
 BOM:
 
-Wireless Mouse Kit Collection
+|Name        |Purpose      |Quantity                                                    |Total Cost (USD)|Link               |Distributor                                           |
+|------------|-------------|------------------------------------------------------------|----------------|-------------------|------------------------------------------------------|
+|Wireless Mouse Kit Collection|the inside of the mouses case to it can function like a mouse|1                                                           |13.00           |https://us.store.bambulab.com/products/wireless-mouse-components-kit-002?id=41806859403400|Bamboo Store                                          |
+
