@@ -6,8 +6,6 @@ src="https://github.com/user-attachments/assets/d49a9b15-e931-40ab-ba74-7420c51e
 <img width="549" height="514" alt="Screenshot 2026-06-16 161509" src="https://github.com/user-attachments/assets/7b014bbc-877d-46e0-84f7-092b03c617e1" />
 <img width="5712" height="4284" alt="IMG_2056" src="https://github.com/user-attachments/assets/ca4e4648-c4b8-43d9-9379-9cfe2905cb36" />
 <img width="5712" height="4284" alt="IMG_2055" src="https://github.com/user-attachments/assets/42faad35-5771-4bb3-9e06-fa372934ee48" />
-<img width="5712" height="4284" alt="IMG_2053" src="https://github.com/user-attachments/assets/3267cdcb-8a67-496d-a061-9bb6a5d8402c" />
-BOM:
 
 |Name        |Purpose      |Quantity                                                    |Total Cost (USD)|Link               |Distributor                                           |
 |------------|-------------|------------------------------------------------------------|----------------|-------------------|------------------------------------------------------|
